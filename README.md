@@ -64,7 +64,7 @@ This project showcases how web scraping tools like **BeautifulSoup**, **urllib**
 
 ## 👤 Author
 
-**Manish Divekar**
+**Vishakha Pandey**
 
 ---
 
